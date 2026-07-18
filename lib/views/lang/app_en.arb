@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "firstLetter": "A",
+  "@firstLetter": {
+    "description": "The first letter of the language alphabet"
+  },
+  "login": "Login",
+  "@login": {
+    "description": "Login label"
+  },
+  "home": "Home",
+  "@home": {
+    "description": "Home page label"
+  }
+}
